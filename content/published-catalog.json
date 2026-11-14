@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "courses": [
+    {
+      "id": "Introduction_to_Computer_Science",
+      "name": "Introduction to Computer Science",
+      "decks": [
+        {
+          "id": "Ch01YH",
+          "title": "Ch01YH",
+          "status": "published",
+          "originalPdf": "content/Introduction_to_Computer_Science/Ch01YH/original.pdf",
+          "translatedPdf": "content/Introduction_to_Computer_Science/Ch01YH/zh-TW.pdf"
+        }
+      ]
+    },
+    {
+      "id": "Data_Structure",
+      "name": "Data Structure",
+      "decks": []
+    },
+    {
+      "id": "Calculus",
+      "name": "Calculus",
+      "decks": []
+    }
+  ]
+}

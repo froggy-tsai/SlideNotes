@@ -26,4 +26,5 @@ Desktop.ini
 .vscode/
 .idea/
 
-# Generated slide review artifacts (keep source teaching materials unless explicitly excluded)
+# Private editable slide drafts (never publish)
+private-materials/

@@ -11,6 +11,13 @@
           "status": "published",
           "originalPdf": "content/Introduction_to_Computer_Science/Ch01YH/original.pdf",
           "translatedPdf": "content/Introduction_to_Computer_Science/Ch01YH/zh-TW.pdf"
+        },
+        {
+          "id": "Ch13YH",
+          "title": "Ch13YH",
+          "status": "published",
+          "originalPdf": "content/Introduction_to_Computer_Science/Ch13YH/original.pdf",
+          "translatedPdf": "content/Introduction_to_Computer_Science/Ch13YH/zh-TW.pdf"
         }
       ]
     },
